@@ -1,1 +1,2 @@
-# pelacak-keuangan
+# Readme!
+Pelacak Keuangan
